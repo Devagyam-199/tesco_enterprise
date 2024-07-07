@@ -75,25 +75,25 @@ export const reviews = [
     {
         imgURL: customer1,
         customerName: 'Morich Brown',
-        rating: 4.5,
+        rating: 3.7,
         feedback: "The attention to detail and the quality of the product exceeded my expectations. Highly recommended!"
     },
     {
         imgURL: customer2,
         customerName: 'Lota Mongeskar',
-        rating: 4.5,
+        rating: 4.3,
         feedback: "The product not only met but exceeded my expectations. I'll definitely be a returning customer!"
     },
     {
         imgURL: customer4,
         customerName: 'Maze Runner',
-        rating: 4.5,
+        rating: 5.0,
         feedback: "The attention to detail and the quality of the product exceeded my expectations. Highly recommended!"
     },
     {
         imgURL: customer3,
         customerName: 'Chirs Hemsworth',
-        rating: 4.5,
+        rating: 4.8,
         feedback: "The product not only met but exceeded my expectations. I'll definitely be a returning customer!"
     },
 
@@ -125,8 +125,8 @@ export const footerLinks = [
     {
         title: "Get in touch",
         links: [
-            { name: "customer@nike.com", link: "mailto:customer@nike.com" },
-            { name: "+92554862354", link: "tel:+92554862354" },
+            { name: "customer@tesco.com", link: "mailto:customer@tesco.com" },
+            { name: "+0000000000", link: "tel:+0000000000" },
         ],
     },
 ];

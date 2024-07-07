@@ -23,7 +23,11 @@ const Hero = () => {
             The New Arrival
           </span>
           <br />
-          <span className='text-coral-red inline-block mt-3'>Nike</span> Shoes
+          of <span className='text-coral-red inline-block mt-3'>Nike</span> Shoes
+          <br/>
+           are here at 
+           <br />
+           <span className='text-coral-red inline-block mt-3'>Tesco</span> Enterprises 
         </h1>
         <p className='font-montserrat text-slate-gray text-lg leading-8 mt-6 mb-14 sm:max-w-sm'>
           Discover stylish Nike arrivals, quality comfort, and innovation for
