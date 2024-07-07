@@ -8,7 +8,7 @@ const Nav = () => {
     <header className='padding-x py-8 absolute z-10 w-full'>
       <nav className='flex justify-between items-center max-container'>
         <a href='/'>
-          <p className="text-4xl font-semibold"><span className="text-coral-red">Tesco</span> Enterprises</p>
+          <p className="md:text-4xl text-md font-semibold"><span className="text-coral-red">Tesco</span> Enterprises</p>
         </a>
         
         <ul className='flex-1 flex justify-center items-center gap-16 max-lg:hidden'>
